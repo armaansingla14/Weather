@@ -2,7 +2,8 @@
 weather.py
 Generates fake weather reports for demonstration purposes.
 """
-
+"dddd"
+'fg'
 import random
 
 def get_weather_report(city: str) -> str:
